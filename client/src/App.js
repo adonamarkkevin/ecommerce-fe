@@ -79,9 +79,9 @@ const App = () => {
 		<Suspense
 			fallback={
 				<div className="col text-center p-5">
-					__ React Redux EC
+					__ Gozpel Gaming Shop
 					<LoadingOutlined />
-					MMERCE __
+					__
 				</div>
 			}
 		>
